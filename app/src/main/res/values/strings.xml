@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">project1</string>
+    <string name="sing_in_text_view">Sing In</string>
+    <string name="first_name_et">First name</string>
+    <string name="last_name_et">Last name</string>
+    <string name="sing_in_bt">SING UP</string>
+    <string name="register_btt">REGISTER</string>
+    <string name="bt_back">BACK</string>
+    <string name="tv_Profile">Profile</string>
+    <string name="tv_firstName">firstName</string>
+    <string name="tv_lastName">lastName</string>
+    <string name="tv_dep">department</string>
+    <string name="tv_register">Resister</string>
+    <string name="bt_reg">Register</string>
+    <string name="et_fname">firstName</string>
+    <string name="et_lastn">lastName</string>
+    <string name="et_depart">department</string>
+    <string name="tv_numSing">Number of calls from Sing In page</string>
+    <string name="tv_numSingValue">values</string>
+    <string name="tv_numReg">Number of calls from Register page</string>
+    <string name="tv_numRegValue">values</string>
+    <string name="tv_numProf">Number of calls from Profile page</string>
+    <string name="tv_numProfValue">values</string>
+</resources>
